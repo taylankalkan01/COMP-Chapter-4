@@ -14,17 +14,16 @@ public class LoopWithCounter {
 
         i = 0;
 
-        while ( i < NUM_STUDENTS){
+        while (i < NUM_STUDENTS) {
 
             //input a test score
-            System.out.print("Enter a test score (0-100) for student #" + (i+1) + ": ");
+            System.out.print("Enter a test score (0-100) for student #" + (i + 1) + ": ");
             score = keyboard.nextInt();
 
-            if ( score < 0 || score > 100) {
+            if (score < 0 || score > 100) {
                 System.out.println("Invalid input, try again!");
-            }
-            else {
-                if ( score > highest){
+            } else {
+                if (score > highest) {
                     highest = score;
                 }
 
