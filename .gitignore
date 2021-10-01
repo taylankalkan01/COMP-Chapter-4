@@ -3,4 +3,7 @@ Factorial.class
 Fibonacci.class
 LoopWithCounter.class
 PrimeNumber.class
+LoopWithFlag.class
+LoopWithSentinel.class
+
 
