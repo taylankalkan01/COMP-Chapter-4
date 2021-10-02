@@ -1,3 +1,9 @@
+/*
+Description:
+* This program uses several while loops to print a sequence of numbers
+and calculates the sum and average of these numbers.
+*/
+
 import java.util.Scanner;
 
 public class WhileLoop {

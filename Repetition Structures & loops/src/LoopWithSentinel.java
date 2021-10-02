@@ -1,3 +1,12 @@
+/*
+Description:
+* There are a number of students, each with a test score.
+* This program inputs a test score for each student, calculates the average score, and finds the highest score
+(assume there is no tie) until a sentinel value is entered.
+* Because we don't now in advance the number of students, so the sentinel-controlled while loop is used.
+* The sentinel is a special value to indicate the end of loop.
+ */
+
 import java.util.Scanner;
 
 public class LoopWithSentinel {

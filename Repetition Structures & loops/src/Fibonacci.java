@@ -1,3 +1,9 @@
+/*
+Description:
+* The Fibonacci sequence of numbers start with 0 and 1, then the following number is the addition of two previous numbers.
+* This program inputs an index (position) and then calculates Fibonacci number at this index.
+ */
+
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -20,12 +26,14 @@ public class Fibonacci {
 
         i = 2;
 
+        //use a while loop to calculate the fib. number at index
         int p1 = 0;
         int p2 = 1;
 
         while (i <= index) {
             result = p1 + p2;
 
+            //update p1 and p2
             p1 = p2;
             p2 = result;
 

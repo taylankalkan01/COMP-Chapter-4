@@ -1,3 +1,8 @@
+/*
+Description:
+* This program inputs a positive integer n and then calculates n!.
+ */
+
 import java.util.Scanner;
 
 public class Factorial {
@@ -14,7 +19,7 @@ public class Factorial {
         System.out.print("Enter a positive integer: ");
         n = keyboard.nextInt(); // 5
 
-        //calculate
+        //calculate n!
         i = n;
         while (i > 1) {
             result *= i; //result = result * i

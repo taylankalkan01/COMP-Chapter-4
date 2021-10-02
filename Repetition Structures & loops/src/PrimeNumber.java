@@ -1,3 +1,8 @@
+/*
+Description:
+* A prime number is a positive integer that has exactly two positive integer factors, 1 and itself.
+* This program inputs a positive integer n and determines whether or not n is a prime number.
+ */
 import java.util.Scanner;
 
 public class PrimeNumber {

@@ -1,3 +1,11 @@
+/*
+Description:
+* This program is similar to LoopWithSentinel program.
+* We use a boolean value flag to control the loop execution.
+* Initially the flag is set to true.
+* If the user input is equal to the sentinel value, the flag is set to false to end the loop.
+ */
+
 import java.util.Scanner;
 
 public class LoopWithFlag {

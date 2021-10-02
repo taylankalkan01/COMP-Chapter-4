@@ -1,3 +1,11 @@
+/*
+Description:
+* There are 10 students, each with a test score.
+* This program inputs 10 test scores, calculates the average score, and finds the highest score
+(assume there is no tie).
+* Because we know in advance that there are 10 students, so the counter-controlled while loop is used.
+ */
+
 import java.util.Scanner;
 
 public class LoopWithCounter {
