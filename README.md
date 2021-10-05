@@ -15,6 +15,7 @@
 [Factorial.java](https://github.com/taylankalkan01/COMP-Chapter-4/blob/master/Repetition%20Structures%20%26%20loops/src/Factorial.java) | This program uses several while loops to print a sequence of numbers and calculates the sum and average of these numbers.
 [Fibonacci.java](https://github.com/taylankalkan01/COMP-Chapter-4/blob/master/Repetition%20Structures%20%26%20loops/src/Fibonacci.java)  |  The Fibonacci sequence of numbers start with 0 and 1, then the following number is the addition of two previous numbers. This program inputs an index (position) and then calculates Fibonacci number at this index.
 [PrimeNumber.java ](https://github.com/taylankalkan01/COMP-Chapter-4/blob/master/Repetition%20Structures%20%26%20loops/src/PrimeNumber.java) | A prime number is a positive integer that has exactly two positive integer factors, 1 and itself. This program inputs a positive integer n and determines whether or not n is a prime number.
+[GCD.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Repetition%20Structures%20%26%20loops/src/GCD.java) | This program uses the Euclidean algorithm to calculate the greatest common divisor of two positive integers.
 ---
 # Decision & Selection
 **_Project Name_**  | **_Description_**
