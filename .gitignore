@@ -7,6 +7,7 @@ LoopWithFlag.class
 LoopWithSentinel.class
 StepWhile.class
 SimpleInterest.class
+GCD.class
 ---
 MinValue.class
 PrintingService.class
