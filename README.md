@@ -23,7 +23,7 @@
 [MinValue.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/MinValue.java)  | The purpose of this program is to use a one-way selection structure to determine the smallest value among three integers.
 [PrintingService.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/PrintingService.java)  | Suppose that the cost of printing large photos (24 x 36) is calculated as follows: (- Service charge $3.00- $7.99 per copy for the first 10 copies- $7.25 for each addition copy.) Write a program that prompts the user to enter the number of copies to print, then calculates and prints the amount due.
 [PayrollWithDecision.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/PayrollWithDecision.java) |This program inputs the hourly-paid employee's information (name, hours worked, and hourly rate), validates the user input, calculates the weekly pay including the overtime pay if applies, and prints the payroll report.
-DEMO  |
+[MultiSelection.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/MultiSelection.java)  | This program prompts the user to input a test score and then uses a multi-selection structure to determine the student grade based on the score.
 DEMO  |
 DEMO  | 
 
