@@ -14,6 +14,7 @@ PrintingService.class
 PayrollWithDecision.class
 MultiSelection.class
 CalculatorWithSwitch.class
+GradeBookWithSwitch.class
 
 
 
