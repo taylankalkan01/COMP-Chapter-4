@@ -27,6 +27,6 @@
 [CalculatorWithSwitch.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/CalculatorWithSwitch.java)  | This program prompts the user to input two operands and a operator, then uses a switch structure to evaluate the operator to determine which operation to perform (+, -, *, or /), and calculates the result based on the operator.
 [GradeBookWithSwitch](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/GradeBookWithSwitch.java)  | This program prompts the user to input a test score and then uses a switch structure to determine the student grade based on the score.
 [Gravity.java](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/Gravity.java)  | Write a program that prompts the user to enter m, n, and r, then calculates and prints the Force of Gravity if the user inputs are valid.
-DEMO  |
+[RegularPyramid](https://github.com/taylankalkan01/COMP-Chapters_Java/blob/master/Decision%20%26%20Selection/src/RegularPyramid.java)  | Write a program to calculate the volume and surface areas of a regular pyramid shape based on the user input of base and height.
 DEMO  | 
 
